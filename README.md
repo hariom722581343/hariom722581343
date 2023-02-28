@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full stack web developer</h3>
 <h3 align="left">An aspiring full stack developer with a specialization in 💻 JAVA . Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h3>
 
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"</img>
+
 - 🌱 I’m currently learning **JAVA at masai school**
 
 - 👨‍💻 All of my projects are available at <a>https://hariom722581343.github.io/</a>
