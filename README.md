@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariom Choudhary</h1>
-<h3 align="center">A passionate Full stack web developer</h3>
-<h3 align="left">Enthusiastic Full-Stack Web Developer with hands-on experience in JAVA, Spring framework,
-and JavaScript. A goal-oriented individual, adept at collaborative problem-solving, and dedicated
-to developing user-centric products. Seeking to contribute technical expertise and creativity to a
-dynamic development team.
+<h3 align="center">Proficient and ambitious Full-Stack Web Developer with extensive expertise in Java, JavaScript, HTML, CSS, SQL databases, and Web API integration. Boasting over 12,000 hours of practical coding experience, I am deeply committed to continuous learning and thrive in challenging environments.
+
+Specializing in Java and JavaScript, with a strong foundation in the Spring framework, I am passionate about crafting innovative, user-centric solutions. A collaborative problem-solver with a goal-oriented mindset, I am eager to contribute my technical proficiency and creative insight to a dynamic development team.
 </h3>
 
 <img style="width:100%;height:400px:" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
@@ -17,7 +15,7 @@ dynamic development team.
 
 - 📫 How to reach me <a href="mailto:hariom722581343@gmail.com">**hariom722581343@gmail.com**</a>
 
-- 📄 <a href="https://drive.google.com/file/d/1Ju85_3rSFq7Mj7Arw4-2QoC5d7YhW0aP/view?usp=sharing" target="_blank"><strong>Know about my experiences RESUME</strong></a>
+- 📄 Know about my experiences<a href="https://drive.google.com/file/d/1Ju85_3rSFq7Mj7Arw4-2QoC5d7YhW0aP/view?usp=sharing" target="_blank"><strong> RESUME</strong></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
