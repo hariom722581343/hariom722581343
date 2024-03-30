@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hariom Choudhary</h1>
 <h3 align="center">A passionate Full stack web developer</h3>
-<h3 align="left">An aspiring full stack developer with a specialization in 💻 JAVA . Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h3>
+<h3 align="left">Enthusiastic Full-Stack Web Developer with hands-on experience in JAVA, Spring framework,
+and JavaScript. A goal-oriented individual, adept at collaborative problem-solving, and dedicated
+to developing user-centric products. Seeking to contribute technical expertise and creativity to a
+dynamic development team.
+</h3>
 
 <img style="width:100%;height:400px:" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-- 🌱 I’m currently learning **JAVA at masai school**
+- 🌱 I’m currently learning **JAVA at Masai School**
 
 - 👨‍💻 All of my projects are available at <a>https://hariom722581343.github.io/</a>
 
 
-- 💬 Ask me about **JAVA , SQL ,Spring ,Hibernate**
+- 💬 Ask me about **JAVA, SQL, Spring, Hibernate**
 
 - 📫 How to reach me <a href="mailto:hariom722581343@gmail.com">**hariom722581343@gmail.com**</a>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bdpue047viSTaArmu0TdpTDTGIAbvEDI/view?usp=share_link)
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>JAVA ,HTML, CSS,JavaScript, SQL ,Spring ,Hibernate,C++,Python</h3>
+<h3>JAVA, HTML, CSS, JavaScript, SQL, Spring, Hibernate, C++, Python</h3>
 
-<h3>VScode,Intellij,STS,Postman,Github</h3>
+<h3>VScode, Intellij, STS, Postman, Github</h3>
   
  
 ## 📊 My Github Stats
