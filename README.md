@@ -17,7 +17,8 @@ dynamic development team.
 
 - 📫 How to reach me <a href="mailto:hariom722581343@gmail.com">**hariom722581343@gmail.com**</a>
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Ju85_3rSFq7Mj7Arw4-2QoC5d7YhW0aP/view?usp=sharing])
+- 📄 <a href="https://drive.google.com/file/d/1Ju85_3rSFq7Mj7Arw4-2QoC5d7YhW0aP/view?usp=sharing" target="_blank"><strong>Know about my experiences RESUME</strong></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h3>JAVA, HTML, CSS, JavaScript, SQL, Spring, Hibernate, C++, Python</h3>
